@@ -1,5 +1,4 @@
-import { FaLinkedin, FaGithub, FaInstagram, FaEnvelope } from "react-icons/fa";
-import { SiLeetcode } from "react-icons/si";
+import { FaInstagram, FaEnvelope } from "react-icons/fa";
 import { FaPhone } from "react-icons/fa6";
 
 const SocialLinks = () => {
