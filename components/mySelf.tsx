@@ -5,8 +5,8 @@ export default function Me() {
   return (
     <div className="">
         <Link href={"/"}>
-          <p className="absolute md:left-4 left-2 right-8 top-40  pt-4 -rotate-90 mt-24 whitespace-nowrap text-2xl font-bold text-pink-600 dark:text-white cursor-pointer ">
-            AKASH AHMAD MALIK
+          <p className="absolute md:left-4 left-2 right-8 top-36 pt-4 -rotate-90 mt-20 whitespace-nowrap text-2xl font-semibold text-pink-600 dark:text-white cursor-pointer ">
+            Huzaif Ahmad Sheikh
           </p>
         </Link>
        <SocialLinks></SocialLinks>

@@ -9,11 +9,11 @@ import Script from "next/script";
 export const metadata: Metadata = {
   title: {
     template: "%s Akash",
-    default: "Akash Ahmad Malik - Portfolio",
+    default: "Huzaif - Portfolio",
   },
   description: "Hi There! Let's build cool things together. You in? 👾",
   keywords: [
-    "Akash Ahmad Malik",
+    "Huzaif",
     "vin kya karas be cxei wan",
     "software developer",
     "portfolio",
@@ -23,29 +23,29 @@ export const metadata: Metadata = {
     "technology",
     "projects",
   ],
-  authors: [{ name: "Akash Ahmad Malik" }],
+  authors: [{ name: "Huzaif" }],
   robots: "index, follow",
   icons: {
     icon: "/image.png",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Akash Ahmad Malik's Portfolio",
+    title: "Huzaif's Portfolio",
     description:
-      "Akash Ahmad Malik's portfolio for software projects and tech skills.",
+      "Huzaif's portfolio for software projects and tech skills.",
     creator: "@Aakash41339611",
     images: ["akash.jpeg"],
   },
   openGraph: {
-    title: "Akash Ahmad Malik - Portfolio",
+    title: "Huzaif - Portfolio",
     url: "https://akash09.vercel.app",
-    siteName: "Akash Ahmad Malik",
+    siteName: "Huzaif",
     images: [
       {
         url: "akash.jpeg",
         width: 600,
         height: 600,
-        alt: "Akash Ahmad Malik Portfolio Preview",
+        alt: "Huzaif Portfolio Preview",
       },
     ],
     locale: "en_US",

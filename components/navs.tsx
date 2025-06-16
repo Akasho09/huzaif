@@ -8,7 +8,6 @@ const navs = [
     { nav: "Home", route: "/", color: "bg-red-300" },
     { nav: "About Me", route: "/about", color: "bg-blue-300" },
     { nav: "Education", route: "/ed", color: "bg-green-300" },
-    { nav: "Projects", route: "/pros", color: "bg-yellow-300" },
     { nav: "Skills", route: "/skill", color: "bg-purple-300" },
     { nav: "Experience", route: "/exp", color: "bg-pink-300" },
     { nav: "Extra Curriculars", route: "/curric", color: "bg-orange-300" },
